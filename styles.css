@@ -1,0 +1,19 @@
+header {
+    text-align: center;
+    color: white;
+    font-size:25px;
+    background-color: lightcoral;
+    padding: 50px 50px 50px 50px;
+}
+
+section {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+div {
+    box-shadow: 2px 2px 2px 2px;
+    padding: 5px;
+}
